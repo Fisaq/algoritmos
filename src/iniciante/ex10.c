@@ -28,16 +28,16 @@ void decomposicao(int num){
     for (int i = 0; i < tamvetor; i++){
 
       if (i == 0){
-        unidade = (int)(arrayNum[i]- '0'); //Subtrai o último caractere ASCII da operação
+        milhar = (int)(arrayNum[i]- '0'); //Subtrai o último caractere ASCII da operação
       }
       else if(i == 1){
-        dezena = (int)(arrayNum[i]- '0');
-      }
-      else if (i == 2){
         centena = (int)(arrayNum[i]- '0');
       }
+      else if (i == 2){
+        dezena = (int)(arrayNum[i]- '0');
+      }
       else if (i == 3){
-        milhar = (int)(arrayNum[i]- '0');
+        unidade = (int)(arrayNum[i]- '0');
       }
       
     }
