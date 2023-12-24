@@ -2,7 +2,7 @@
 
 void decomposicao(int num){
   
-  if (num <= 1000 || num >= 9999){
+  if (num < 1000 || num > 9999){
     printf("Favor, informe um número com até 4 casas decimais.");
   }
   else{
