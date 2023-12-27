@@ -8,7 +8,7 @@ int tabelaASCII(int num){
   return 0;
 }
 
-int exI209(){
+int main(){
 
   tabelaASCII(67);
 
