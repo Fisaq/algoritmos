@@ -13,7 +13,7 @@ int resQuo(int a, int b){
   return 0;
 }
 
-int exI202(){
+int main(){
 
   resQuo(22, 5);
   
