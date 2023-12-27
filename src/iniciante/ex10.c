@@ -54,10 +54,10 @@ int main(){
   
   /*Saída:
     O número 1273 é decomposto em: 
-    1 unidades
-    2 dezenas
-    7 centenas
-    3 milhares
+    1 milhares
+    2 centenas
+    7 dezenas 
+    3 unidades 
   */
   
   return 0;
