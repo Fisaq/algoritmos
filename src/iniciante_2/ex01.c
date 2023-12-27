@@ -14,7 +14,7 @@ int media(double a, double b, double c){
   return 0;
 }
 
-int exI201(){
+int main(){
 
   media(7,2,5);
     
