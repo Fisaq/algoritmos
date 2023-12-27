@@ -15,7 +15,7 @@ int valor_depre(Veiculo carro[]){
   return 0;
 }
 
-int exI206(){
+int main(){
 
   Veiculo carro[3];
   
