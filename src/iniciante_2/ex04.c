@@ -20,7 +20,7 @@ int compTerreno(int largura, int comprimento){
   return 0;
 }
 
-int exI204(){
+int main(){
 
   compTerreno(99, 100);
   return 0;
