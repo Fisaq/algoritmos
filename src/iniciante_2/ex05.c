@@ -33,7 +33,7 @@ int imc(double peso, double altura){
   return 0;
 }
 
-int exI205(){
+int main(){
 
   imc(82.0, 1.8);
   
