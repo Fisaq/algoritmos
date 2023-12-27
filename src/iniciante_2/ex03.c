@@ -10,7 +10,7 @@ int converterTemp(int temp){
   return 0;
 }
 
-int exI203(){
+int main(){
 
   converterTemp(22);
   
