@@ -20,7 +20,7 @@ int calculoSal(double valor_h, int total_h){
   return 0;
 }
 
-int exI207(){
+int main(){
 
   double valor_h;
   int total_h;
