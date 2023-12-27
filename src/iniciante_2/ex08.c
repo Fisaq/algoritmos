@@ -21,7 +21,7 @@ int distanciaPontos(int x1, int y1, int x2, int y2){
   return 0;
 }
 
-int exI208(){
+int main(){
 
   distanciaPontos(1, 2, 7, 8);
   
