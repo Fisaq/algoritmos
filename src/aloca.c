@@ -30,7 +30,7 @@ void alocaMemoria(int linhas, int colunas){
   free(mapa);
 }
 
-int main (){
+int main(){
 
   alocaMemoria(5,10);
   /*Saída:
